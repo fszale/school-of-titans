@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# School of Titans
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+  ## Why
 
-## Commands
+  To help people evolve and permanently alter their reality, this is how we impact fabric of the universe.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+  ## How
+  We utilize a simple and repeatable process developed from accumulated life long experiences supported by findings derived from the works of Tim Ferriss titled "Tools of Titans".
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+  ## What
+  We conduct personalized coaching sessions following a documented process that emphasizes mindfulness, first principles reasoning, persuasion and personal development and is completely powered by the willing participants.

@@ -1,1 +1,19 @@
-site_name: My Docs
+site_name: School of Titants
+repo_url: https://github.com/fszale/school-of-titans
+site_author: Filip Szalewicz
+
+theme: "material"
+markdown_extensions:
+  - toc:
+      permalink: true
+  - codehilite:
+      guess_lang: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+plugins:
+  - search
+nav:
+  - Home: index.md
+  - Start Here: start.md
+  - About: about.md
