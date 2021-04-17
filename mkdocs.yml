@@ -16,4 +16,6 @@ plugins:
 nav:
   - Home: index.md
   - Start Here: start.md
+  - Tools of Titans: tools.md
+  - Future Trends: trends.md
   - About: about.md
