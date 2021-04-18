@@ -13,7 +13,7 @@ Simply add your notes to the above power point presentation, this is the first a
 
 ## Personal development
 
-I have compiled a list of key personal development recommendations loosely based on stories from the "Tools of Titans" book by Tim Ferris and also added a few of my own, you can see the list [here](./school-of-titans/tools).
+I have compiled a list of key personal development recommendations loosely based on stories from the "Tools of Titans" book by Tim Ferris and also added a few of my own, you can see the list [here](https://fszale.github.io/school-of-titans/tools).
 
 "Tools of Titans" book contains multitude of lessons learned from public figures that most of us would label as successful.
 

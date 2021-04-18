@@ -2,7 +2,7 @@
 
 ## Why
 
-To help people evolve and permanently alter their reality, this is how we impact fabric of the universe.
+To help people evolve and permanently alter their reality, this is how we impact the  universe.
 
 ## How
 We utilize a simple and repeatable process developed from accumulated life long experiences supported by findings derived from the works of Tim Ferriss titled "Tools of Titans".
