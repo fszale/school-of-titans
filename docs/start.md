@@ -36,6 +36,7 @@ Another classic is ["How to Win Friends & Influence People Paperback"](https://w
 My personal favorite public persona focused on the subject of persuasion is [Scott Adams](https://www.scottadamssays.com/about/) (The "Dilbert" cartoon creator) who has a unique perspective on how to interpret the surrounding world. He has developed a persuasion filter that has proven to be a validator of his unusually accurate predictions. You can find a great reading list focused on the subject of persuasion on his blog [here](https://www.scottadamssays.com/2018/01/24/persuasion-reading-list-updated-1-18/).  
 
 I would also recommend that you acquire some of his other books listed below:
+
 - ["How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life"](https://www.amazon.com/How-Fail-Almost-Everything-Still/dp/1591847745)
 
 - ["Win Bigly: Persuasion in a World Where Facts Don't Matter"](https://www.amazon.com/Win-Bigly-Persuasion-World-Matter/dp/0735219710)
