@@ -26,6 +26,7 @@
 ###Frugality
 ###Bias towards action
 ###Business writing
+###Value your time
 ###Conscious actions (physical, emotional, energy, mental)
   [https://goop.com/wellness/spirituality/the-four-bodies/](https://goop.com/wellness/spirituality/the-four-bodies/)
 ###Career Progression

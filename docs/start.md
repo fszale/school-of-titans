@@ -5,7 +5,16 @@ Download life plan power point and begin adding objectives for the year, [click 
 Simply add your notes to the above power point presentation, this is the first artifact you will take responsibility for.  Its a strategic plan you will create by yourself.  Think of this as the basis of personal OKRs, [click here](https://www.whatmatters.com/faqs/okr-meaning-definition-example/) to learn what they are.
 
 ## First principles reasoning
-[click here](https://fs.blog/2018/04/first-principles/)
+First-principles reasoning is an approach to break down a complex problem to the most simple
+elements to gain base line understanding of what components are involved.
+
+Once this is done, the base components can be modified and reassembled from ground up in order to reconstruct the understanding.  
+
+This process proves to be successful in unlocking creative potential and solving complex problems, often referenced by such public figures as Elon Musk and Charlie Munger.
+
+For an excellent write up on this topic please [click here](https://fs.blog/2018/04/first-principles/).
+
+I encourage you to poke around the [https://fs.blog](https://fs.blog/) blog as it contains multitude of interesting content. Its key objective is stated to be and I quote, "Our goal is to help you master the best of what other people have already figured out."  Their Sunday email based newsletter is packed with intelligent content and is worth your precious time.
 
 ## Persuasion
 
