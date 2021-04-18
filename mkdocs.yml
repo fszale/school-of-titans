@@ -2,15 +2,13 @@ site_name: School of Titans
 repo_url: https://github.com/fszale/school-of-titans
 site_author: Filip Szalewicz
 
-theme: "material"
+theme:
+  name: material
 markdown_extensions:
   - toc:
       permalink: true
   - codehilite:
       guess_lang: true
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
 plugins:
   - search
 nav:
@@ -18,4 +16,5 @@ nav:
   - Start Here: start.md
   - Tools of Titans: tools.md
   - Future Trends: trends.md
+  - Engineering: engineering.md
   - About: about.md

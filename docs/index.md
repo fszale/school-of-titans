@@ -1,4 +1,6 @@
-# School of Titans
+I am so glad you found …
+
+![v0.1](/docs/images/cooltext381895775393585.png)
 
 ## Why
 
@@ -9,3 +11,5 @@ We utilize a simple and repeatable process developed from accumulated life long 
 
 ## What
 We conduct personalized coaching sessions following a documented process that emphasizes mindfulness, first principles reasoning, persuasion and personal development and is completely powered by the willing participants.
+
+---
