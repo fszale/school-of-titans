@@ -31,7 +31,7 @@ This book will help you to learn the six universal principles of influence and h
 - Authority: We are more likely to say “yes” to others who are authorities, who carry greater knowledge, experience or expertise.
 - Scarcity: We want more of what is less available or dwindling in availability.
 
-Another classic is ["How to Win Friends & Influence People Paperback"](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) by Dale Carnegie.  This book serves rock-solid, time-tested advice has carried countless people up the ladder of success in their business and personal lives. One of the most groundbreaking and timeless bestsellers of all time.
+Another classic is ["How to Win Friends & Influence People"](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) by Dale Carnegie.  This book serves rock-solid, time-tested advice has carried countless people up the ladder of success in their business and personal lives. One of the most groundbreaking and timeless bestsellers of all time.
 
 My personal favorite public persona focused on the subject of persuasion is [Scott Adams](https://www.scottadamssays.com/about/) (The "Dilbert" cartoon creator) who has a unique perspective on how to interpret the surrounding world. He has developed a persuasion filter that has proven to be a validator of his unusually accurate predictions. You can find a great reading list focused on the subject of persuasion on his blog [here](https://www.scottadamssays.com/2018/01/24/persuasion-reading-list-updated-1-18/).  
 
