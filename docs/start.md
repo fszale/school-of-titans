@@ -37,7 +37,9 @@ My personal favorite public persona focused on the subject of persuasion is [Sco
 
 I would also recommend that you acquire some of his other books listed below:
 - ["How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life"](https://www.amazon.com/How-Fail-Almost-Everything-Still/dp/1591847745)
+
 - ["Win Bigly: Persuasion in a World Where Facts Don't Matter"](https://www.amazon.com/Win-Bigly-Persuasion-World-Matter/dp/0735219710)
+
 - ["Loserthink: How Untrained Brains Are Ruining America"](https://www.amazon.com/Loserthink-Untrained-Brains-Ruining-America/dp/0593083520)
 
 These books are all full of useful content that helps you interpret your surroundings, people, influence and other forces at play working hard to shape your reality.
