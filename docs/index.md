@@ -1,6 +1,6 @@
 I am so glad you found …
 
-![v0.1](/docs/images/cooltext381895775393585.png)
+![v0.1](images/cooltext381895775393585.png)
 
 ## Why
 
