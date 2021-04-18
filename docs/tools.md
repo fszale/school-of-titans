@@ -1,35 +1,35 @@
-#Tools of Titans
-###Systems over Goals
-###Fasting
-###Daily mindfulness and/or meditation
-###Continuous reading
-###Attain focus by listening to a single song/binural beats
-###"Spec" work, create a project and try to sell it
-###Take supplements (vitamins)
-###Exercise Daily
-###Atomic habits
-###Develop an OCD
-###Crazy ideas are good
-###Its ok to say "NO"
-###Take the time to think
-###Define your own happiness
-###Take a chance
-###Go in sprints
-###Do what scares your
-###Try doing the opposite and learn
-###30/60/90 plan
-###80/20 rule
-###Financial literacy
-###Public speaking
-###Radical candor
-###Tracking metrics
-###Frugality
-###Bias towards action
-###Business writing
-###Value your time
-###Conscious actions (physical, emotional, energy, mental)
+# Tools of Titans
+### Systems over Goals
+### Fasting
+### Daily mindfulness and/or meditation
+### Continuous reading
+### Attain focus by listening to a single song/binural beats
+### "Spec" work, create a project and try to sell it
+### Take supplements (vitamins)
+### Exercise Daily
+### Atomic habits
+### Develop an OCD
+### Crazy ideas are good
+### Its ok to say "NO"
+### Take the time to think
+### Define your own happiness
+### Take a chance
+### Go in sprints
+### Do what scares your
+### Try doing the opposite and learn
+### 30/60/90 plan
+### 80/20 rule
+### Financial literacy
+### Public speaking
+### Radical candor
+### Tracking metrics
+### Frugality
+### Bias towards action
+### Business writing
+### Value your time
+### Conscious actions (physical, emotional, energy, mental)
   [https://goop.com/wellness/spirituality/the-four-bodies/](https://goop.com/wellness/spirituality/the-four-bodies/)
-###Career Progression
+### Career Progression
 - Do you wonder what's next?  
 - How can you judge the next opportunity?
 - What should you do?

@@ -1,4 +1,4 @@
-#Start Here
+# Start Here
 
 Download life plan power point and begin adding objectives for the year, [click here](https://github.com/fszale/school-of-titans/tree/main/docs/attachments/year_plan_blank.pptx).
 
