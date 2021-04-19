@@ -1,9 +1,44 @@
 # Tools of Titans
 ### Systems over Goals
 ### Fasting
+- Do you feel sluggish after your meals?
+- Is your brain a bit foggy at times?
+- Does your blood sugar spike up and down?
+- Are you having trouble focusing?
+
+Intermittent fasting is a system of restricting food intake in order to help the body expend stored calories. I have experienced multiple benefits of this approach and have been practicing various forms of intermittent fasting over many years.
+
+A common form of intermittent fasting is the 16/8 method which involves limiting consumption of foods and calorie-containing beverages to a set window of eight hours per day and abstaining from food for the remaining 16 hours.
+
+This cycle can be repeated as frequently as you like and is popular especially among those looking to lose weight and burn fat. While other diets often set strict rules and regulations, 16/8 intermittent fasting is easy to follow and can provide real results with minimal effort. It’s generally considered less restrictive and more flexible than many other diet plans and can easily fit into just about any lifestyle.
+
+For additional information please look at this Harvard funded [study](https://www.health.harvard.edu/heart-health/time-to-try-intermittent-fasting) and for a practical how to guide read this [article](https://perfectketo.com/16-8-intermittent-fasting-ketosis/).
+
+This is not medical advice, please check with your doctor first before attempting to fast.
+
 ### Daily mindfulness and/or meditation
 ### Continuous reading
-### Attain focus by listening to a single song/binural beats
+### Attain focus by listening to a single song/binaural beats
+- Are you having trouble focusing?
+- Is it difficult for you to calm your mind?
+- Is your brain having a million thoughts a minute and you need a break?
+- Are you finding practicing mindfulness difficult?
+
+Binaural beat is a multi tone signal you hear with a slightly different frequency per ear. Your brain processes a beat at the difference of the frequencies resulting in a series of surprising effects.
+
+Binaural beats are often associated with practice of meditation, a number of additional benefits have also been identified:
+
+- reduced anxiety
+- increases focus and concentration
+- lowers stress
+- foster positive moods
+- promotes creativity
+- helps to manage pain
+
+I have experienced all of the above outcomes as a result of listening to binaural beats daily and recommend that you find an iOS/Android app for your phone. Most of these apps come with pre-configured beat frequencies commonly found to induce a particular mood, meditative state, increased focus or simply assist with falling asleep. I have also experienced similar results by listening to the same song continuously over an extended period of time.
+
+For additional information please look at this ["Auditory Beat Stimulation and its Effects on Cognition and Mood States"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4428073/) research study and for practical how to guide read this [article](https://www.healthline.com/health/binaural-beats#potential-benefits).
+
 ### "Spec" work, create a project and try to sell it
 ### Take supplements (vitamins)
 ### Exercise Daily
