@@ -4,6 +4,8 @@ site_author: Filip Szalewicz
 
 theme:
   name: material
+  logo: images/schoolicon.png
+  favicon: images/schoolfavicon.png
 markdown_extensions:
   - toc:
       permalink: true
