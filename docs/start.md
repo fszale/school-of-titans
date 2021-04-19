@@ -1,12 +1,23 @@
 # Start Here
 
-Download life plan power point and begin adding objectives for the year, [click here](https://github.com/fszale/school-of-titans/tree/main/docs/attachments/year_plan_blank.pptx).
+Download life plan powerpoint and begin adding objectives for the year, [click here](https://github.com/fszale/school-of-titans/tree/main/docs/attachments/year_plan_blank.pptx) to download.
+
+If you are unable to use powerpoint, please document your objectives in the context of the following categories (you must supply answers for all categories):
+
+- Money
+- Community
+- Love
+- Fun
+- Career
+- Health
+- Hobbies
+- Mind
 
 Simply add your notes to the above power point presentation, this is the first artifact you will take responsibility for.  Its a strategic plan you will create by yourself.  Think of this as the basis of personal OKRs, [click here](https://www.whatmatters.com/faqs/okr-meaning-definition-example/) to learn what they are.
 
 While you are adding the content for the life plan, please familiarize yourself with the topics of persuasion, first principles, mindfulness and personal development.  These concepts are all contributing factors to the success of your self development journey.
 
-Once you are complete with the life plan, feel free to reach out to me directly and we will schedule a review session, simply send your life plan and contact information to <fszale@gmail.com>.
+Once you are complete with the life plan, feel free to reach out to me directly and we will schedule a review session. Please forward the life plan and your contact information to <fszale@gmail.com>.
 
 ## First principles reasoning
 First-principles reasoning is an approach to break down a complex problem to the most simple
