@@ -30,6 +30,16 @@ This is not medical advice, please check with your doctor first before attemptin
 
 ### Daily mindfulness and/or meditation
 ### Continuous reading
+- Are you seeking knowledge?
+- Do you want to become a better writer?
+- Are you looking to grow your ability to comprehend?
+- Seeking alternative perspectives?
+- Do you want to improve your odds of success?
+
+Continuous reading is yet another system to learn from others, perhaps even more important as a system of discovery for what mistakes to avoid. Reading helps us better understand people on an intimate level, may even help increase our empathy. Books challenge us to grow, as your mind is forced to wrestle in order to comprehend. At times you can feel the neural pathways forming.
+
+A great perspective on reading can be found in a blog titled ["Why Read? Advice From Harold Bloom"](https://fs.blog/2020/10/why-read/), and another great source of reading tips come from no other than [Naval Ravikant](https://nav.al/) on this [blog post](https://alexandbooks.com/archive/16-reading-tips-from-naval-ravikant)
+
 ### Attain focus by listening to a single song/binaural beats
 - Are you having trouble focusing?
 - Is it difficult for you to calm your mind?
