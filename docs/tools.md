@@ -29,6 +29,14 @@ For additional information please look at this Harvard funded [study](https://ww
 This is not medical advice, please check with your doctor first before attempting to fast.
 
 ### Daily mindfulness and/or meditation
+Mindfulness is a type of meditation where you have to intentionally focus on whatever is happening without injecting your bias to interpret and/or pass judgement.
+
+I find this skill to be an enabler for developing unbiased mindset necessary to lead with empathy.
+
+I find reading about this subject overwhelming and often impossible to verify.  You need to discover your own approach to develop this skill. I have been practicing for years and can confirm that mindful meditation allowed my brain to forge new neural pathways.  It has also materially altered my perspective on how to interpret our reality. In my personal experience, the benefits of this practice result in heighten sense of self awareness, unbiased judgment, profound increase of empathy and compassion, emotional stability, accurate perception of other people emotional state and mental calmness under all circumstances.
+
+This is a complex area of study and I encourage you to search and discover your own research materials. One the few books I could "connect with" is ["Practicing Mindfulness: An Introduction to Meditation"](https://www.amazon.com/Practicing-Mindfulness-Introduction-Great-Courses-ebook/dp/B07CNLSXC2), although it was impossible for me to maintain focus while reading it. I opted for the audio version instead and spent many hours walking the dog while absorbing and practicing the content as advised.
+
 ### Continuous reading
 - Are you seeking knowledge?
 - Do you want to become a better writer?
@@ -62,7 +70,37 @@ I have experienced all of the above outcomes as a result of listening to binaura
 For additional information please look at this ["Auditory Beat Stimulation and its Effects on Cognition and Mood States"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4428073/) research study and for practical how to guide read this [article](https://www.healthline.com/health/binaural-beats#potential-benefits).
 
 ### "Spec" work, create a project and try to sell it
+Spec work is when you create a product content such as video, song, script, code, website, design, graphic, other artifacts first and then attempt to find a buyer to sell it to.
+
+This is one of the most common experiences shared by successful people featured in the ["Tools of Titans"](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788) book by [Tim Ferris](https://www.youtube.com/c/timferriss). They have all created some form of "spec" work and then attempted to find a prospective buyer in order to sell the artifact, license the content or create a new business opportunity based on the idea itself.
+
+- Why then have all these people attempted this endeavor?
+- What is their motivation?
+- What can we learn from this?
+
+It is impossible to read other people minds and its easy to speculate what each person's personal motives might have been. Perhaps, it is a character trait that made these people successful to begin with, a willingness to take a leap of faith. "You will never know unless you try", this quote is often attributed to public figures, try googling it.
+
+Think of this as a learning opportunity and to increase probability of success we must apply a system, so consider the following creative process:
+
+- Identify "spec" work
+- Identify potential buyers
+- Develop a 30/60/90 plan
+- Apply the 80/20 rule
+- Be creative, go Big
+
+People often advise against this approach due to the perception that work presented to a non-committed buyer can be easily acquired without having to pay for the work performed, see an entire website dedicated to this topic [here](https://www.nospec.com/), then again none of these people were featured in the "Tools of Titans" book.
+
 ### Take supplements (vitamins)
+If you have a healthy diet, a multivitamin supplement may have little or no benefit.
+
+But how do you really know if you need to supplement vitamins?
+
+It is best to ask your doctor about a blood test, it is a routine procedure often performed around the same time as your yearly physical examination.  The results will be telling and will arm you with knowledge to decide next steps.
+
+ You may find yourself low on vitamin D if you live in darker places or your lifestyle limits exposure to sunlight, vitamin D is arguably the most important vitamin you could take. Whenever, you feel fatigued or have low energy, it's very possible that you are vitamin D deficient. For an in depth Harvard study on vitamin D please read the following article [Vitamin D and your health: Breaking old rules, raising new hopes](https://www.health.harvard.edu/staying-healthy/vitamin-d-and-your-health-breaking-old-rules-raising-new-hopes), another great source of information about vitamin D can be found in this [blog post](https://www.huffpost.com/entry/vitamin-d-may-be-the-most-important-nutrient-you-need_b_8235466#:~:text=Vitamin%20D%20is%20arguably%20the,Vitamin%20D%20levels%20are%20low.).
+
+This is not medical advice, please check with your doctor first before taking vitamins.
+
 ### Exercise Daily
 ### Atomic habits
 ### Develop an OCD
@@ -74,7 +112,7 @@ For additional information please look at this ["Auditory Beat Stimulation and i
 ### Go in sprints
 ### Do what scares your
 ### Try doing the opposite and learn
-
+### Lead with Empathy
 ### 30/60/90 plan
 - Are you about to start a new project and don't know how?
 - How do you define and prioritize the work?
@@ -82,24 +120,24 @@ For additional information please look at this ["Auditory Beat Stimulation and i
 
 This is a system to organize activity in order to provide clarity on how to proceed.  For simplicity of understanding consider 30 to be immediate, 60 as near term and 90 as the long term.
 
-  1. Begin the work by gathering requirements necessary to define the following:
+Begin the work by gathering requirements necessary to define the following:
 
   - Vision
   - Objectives
   - Key Results
   - Stakeholder
 
-  2. The next step is to create a planning matrix as follows:
+The next step is to create a planning matrix as follows:
 
-  | Right Now (30) | Medium Term (60) | Long Term (90) |
-  | --- | --- | --- |
-  | Build Solution | Build Solution | Build Solution |
-  | Data Provisions | Data Provisions | Data Provisions |
-  | Increase Adoption | Increase Adoption | Increase Adoption |
+| Right Now (30) | Medium Term (60) | Long Term (90) |
+| --- | --- | --- |
+| Build Solution | Build Solution | Build Solution |
+| Data Provisions | Data Provisions | Data Provisions |
+| Increase Adoption | Increase Adoption | Increase Adoption |
 
-  This is an example of a product development matrix but it can be adapted to any situation.
+This is an example of a product development matrix but it can be adapted to any situation.
 
-  3. The next step is to identify and classify activity for each of the placeholders within the above matrix.  In other words, given the appropriate “time” bucket (for example "Right Now (30)") begin by breaking down the objectives into tasks that must happen immediately. For example, prototyping and end to end test (“Hello World”) system should be in the first 30.
+The next step is to identify and classify activity for each of the placeholders within the above matrix.  In other words, given the appropriate “time” bucket (for example "Right Now (30)") begin by breaking down the objectives into tasks that must happen immediately. For example, prototyping and end to end test (“Hello World”) system should be in the first 30.
 
 To see a practical example of a 30/60/90 plan focused on what to do in a new job [click here](https://www.indeed.com/career-advice/starting-new-job/30-60-90-day-plan).
 

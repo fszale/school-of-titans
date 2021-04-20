@@ -76,4 +76,4 @@ I have compiled a list of key personal development recommendations loosely based
 
 "Tools of Titans" book contains multitude of lessons learned from public figures that most of us would label as successful.
 
-You can find this book on Amazon [here](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/ref=sr_1_1?dchild=1&keywords=Tools+of+Titans&qid=1618703309&sr=8-1), Tim Ferriss is an interesting individual worth following for the content he produces, you can see him in action on YouTube, [click here](https://www.youtube.com/c/timferriss).
+You can find this book on Amazon [here](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788), Tim Ferriss is an interesting individual worth following for the content he produces, you can see him in action on YouTube, [click here](https://www.youtube.com/c/timferriss).
