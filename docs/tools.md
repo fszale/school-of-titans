@@ -1,5 +1,17 @@
 # Tools of Titans
 ### Systems over Goals
+A goal is a clearly defined objective that a person wants to achieve.  A system is a process which facilitates progress towards a goal.
+
+Goal focused people often experience an emotional roller-coaster depending on whether the goal is achieved or not. Systems oriented people succeed every time they apply the process towards a goal.  
+
+Systems win in the long run.  
+
+One of the best examples of a system based approach is reflected in Amazon's management leadership practices.  Their system facilitates a relentless forward progress towards objectives.  It continues to scale exceptionally well, Amazon's present size of the organization, market share, product differentiation and customer loyalty are at unprecedented levels and continue to grow.
+
+James Clear (author of ["Atomic Habits"](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)) has an excellent post about goals vs systems [here](https://jamesclear.com/goals-systems). Scott Adams (author of "Dilbert") has also written an excellent post about goals vs systems [here](https://www.scottadamssays.com/2013/11/18/goals-vs-systems/).
+
+For an excellent introduction to the Amazon management system please read ["The Amazon Management System: The Ultimate Digital Business Engine That Creates Extraordinary Value for Both Customers and Shareholders"](https://www.amazon.com/Amazon-Management-System-Extraordinary-Shareholders-ebook/dp/B081S5YPK8) book.
+
 ### Fasting
 - Do you feel sluggish after your meals?
 - Is your brain a bit foggy at times?
