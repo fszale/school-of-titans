@@ -161,6 +161,29 @@ To see a practical example of a 30/60/90 plan focused on what to do in a new job
 Another effective system to decide priority of execution is known as the ["Pareto Principle"](https://en.wikipedia.org/wiki/Pareto_principle), often referred to as the 80/20 rule.  The basic premise is that 20% of the identified work is responsible for the 80% of the outcome value. This approach can be combined with another system, for example the 30/60/90 plan.  In such a scenario, the work activity identified in each of the "time" buckets would be prioritized as to first begin the work on a small subset of the activities (the 20%) that delivers 80% of the results.
 
 ### Financial literacy
+Many Americans have little understanding of finances, responsible credit usage, and the long term impact of poor financial decisions. In fact, a lack of financial understanding has been signaled as one of the main reasons many Americans struggle with saving and investing. For additional details about financial literacy read the following [article](https://www.investopedia.com/articles/investing/100615/why-financial-literacy-and-education-so-important.asp), and learn about how inadequate are median retirement savings [here](https://www.synchronybank.com/blog/median-retirement-savings-by-age), note not to use average savings since those numbers include the billionaires and skew the numbers tremendously.
+
+One of the best sources of basic financial information is provided by Fidelity on their website, [click here](https://www.fidelity.com/financial-basics/overview) for an excellent primer on financials basics.
+
+Scott Adams (the Dilbert's creator) has created an effective [Dilbert’s One-Page Guide to Everything Financial](https://www.theretirementmanifesto.com/the-dilbert-principles-of-personal-finance-an-infographic/):
+
+- Make a will.
+- Pay off your credit cards.
+- Get term life insurance if you have a family to support.
+- Fund your 401k to the maximum.
+- Fund your IRA to the maximum.
+- Buy a house if you want to live in a house and can afford it.
+- Put six months worth of expenses in a money-market account.
+- Take whatever money is left over and invest 70% in a stock index fund and 30% in a bond fund through any discount broker and never touch it until retirement.
+
+If any of this confuses you, or you have something special going on (retirement, college planning, tax issues), hire a fee-based financial planner, NOT one who charges a percentage of your portfolio.
+
+I would also add the following to this plan:
+
+- Use 529 plan for college savings
+- Get a universal insurance policy with a cash savings guaranteed rate but only if you are in your early 20s (insurance costs less when you are young)
+
+This is it, a simple system to improve odds of financial well being and secure retirement.
 ### Public speaking
 ### Radical candor
 ### Tracking metrics
