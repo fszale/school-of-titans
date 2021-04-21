@@ -102,6 +102,22 @@ It is best to ask your doctor about a blood test, it is a routine procedure ofte
 This is not medical advice, please check with your doctor first before taking vitamins.
 
 ### Exercise Daily
+- Want to improve memory and mental sharpness?
+- Need to reduces stress?
+- How to promote creativity?
+
+You already know that exercise is good for you. Exercise is one of those activities you need to make into a daily habit, and just in case you haev doubts please read all about the [benefits of regular physical activity article from Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/exercise/art-20048389).  Most successful people have long adopted exercise as part of their daily regiment, click here to [google it](https://www.google.com/search?q=successfull+people+daily+exercise).
+
+So why is it so hard?
+
+This is yet another opportunity to implement a system, remember system over goals.  Do not feel obligated to begin with an objective to loose weight, gain strength or run a marathon.  Develop a process that will reduce friction preventing you from exercising daily.  For example, I have brought the 35lbs dumbbell and set it down in a visible place next to my desk.  Next, I have placed a yellow sticky note next to my keyboard, a bit of an eyesore but an effective reminder tool, with the following list:
+
+- Curls
+- Squats
+- Pushups
+
+This is a good start but still not as effective as I would like, it has worked maybe 60% of the time.  Another enhancement to this process is to pair the exercise with an activity that you find pleasurable.  This will help to train your brain to connect both activities together and the hard exercise will be mentally associated with a reward of some kind. So far I have found success with two different approaches, in the morning I drink coffee while exercising since I love coffee and in the afternoon I play one of my favorite 80's era inspirational songs ([Kickstart My Heart by Motley Crue](https://www.youtube.com/watch?v=CmXWkMlKFkI))
+
 ### Atomic habits
 ### Develop an OCD
 ### Crazy ideas are good
@@ -153,6 +169,7 @@ Another effective system to decide priority of execution is known as the ["Paret
 ### Business writing
 ### Value your time
 ### Think long term
+### Multiple incomes
 ### Conscious actions (physical, emotional, energy, mental)
   [https://goop.com/wellness/spirituality/the-four-bodies/](https://goop.com/wellness/spirituality/the-four-bodies/)
 
