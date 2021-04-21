@@ -9,3 +9,4 @@
 - Jeff Bezos [about](https://en.wikipedia.org/wiki/Jeff_Bezos)
 - Tim Ferriss [blog](https://tim.blog/)
 - Hundreds of Books ... thinking about how to best reference those ...
+- and me [:)](https://github.com/fszale)

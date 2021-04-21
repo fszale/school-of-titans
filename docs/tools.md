@@ -1,5 +1,5 @@
 # Tools of Titans
-### Systems over Goals
+### Systems over goals
 A goal is a clearly defined objective that a person wants to achieve.  A system is a process which facilitates progress towards a goal.
 
 Goal focused people often experience an emotional roller-coaster depending on whether the goal is achieved or not. Systems oriented people succeed every time they apply the process towards a goal.  
@@ -119,14 +119,51 @@ This is yet another opportunity to implement a system, remember system over goal
 This is a good start but still not as effective as I would like, it has worked maybe 60% of the time.  Another enhancement to this process is to pair the exercise with an activity that you find pleasurable.  This will help to train your brain to connect both activities together and the hard exercise will be mentally associated with a reward of some kind. So far I have found success with two different approaches, in the morning I drink coffee while exercising since I love coffee and in the afternoon I play one of my favorite 80's era inspirational songs ([Kickstart My Heart by Motley Crue](https://www.youtube.com/watch?v=CmXWkMlKFkI))
 
 ### Atomic habits
+Tiny changes lead to remarkable results.
+
+No matter your goals, a book ["Atomic Habits"](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) by James Clear, offers a proven framework for improving a little every day. The book reveals a system for habit formation with practical strategies to teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.
+
+If you're having trouble changing your habits, the problem isn't you. The problem is your system. Remember, systems over goals always win. Bad habits repeat themselves because you have the wrong system for change.
+
+The Book in Three Sentences
+- An atomic habit is a regular practice or routine that is not only small and easy to do but is also the source of incredible power; a component of the system of compound growth.
+- Bad habits repeat themselves again and again not because you don’t want to change, but because you have the wrong system for change.
+- Changes that seem small and unimportant at first will compound into remarkable results if you’re willing to stick with them for years.
+
+The Five Big Ideas
+- Habits are the compound interest of self-improvement.
+- If you want better results, then forget about setting goals. Focus on your system instead.
+- The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become.
+- The Four Laws of Behavior Change are a simple set of rules we can use to build better habits. They are (1) make it obvious, (2) make it attractive, (3) make it easy, and (4) make it satisfying.
+- Environment is the invisible hand that shapes human behavior.    
+
+For a more detailed summary please visit this [blog post](https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/) and for the "real thing" by James Clear click ["Atomic Habits"](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299).
+
 ### Develop an OCD
 ### Crazy ideas are good
 ### Its ok to say "NO"
 ### Take the time to think
 ### Define your own happiness
+Its entirely possible to achieve happiness without financial wealth. I think that most of us are aware that there is no way to buy happiness. However, as Naval Ravikant puts it, in modern times you can buy your way out of common causes of unhappiness.
+
+Happiness is a skill you can develop.
+
+Think about a system that will repeatedly move you forward towards your unique definition of happiness. But first let us agree on the following truths:
+
+- There are many types of happiness
+- When you’re sick, your desires run away
+- No single thing will make you happy forever
+- Happiness is a process of understanding and self-discovery
+- Figuring out the truth will lead to happiness
+- Happiness Is Peace in Motion
+- Your happiness has to be defined by you
+- You can't outsource your happiness to others
+
+One of the best sources of thoughts on happiness I have found so far comes from Naval Ravikant and can be found at [https://nav.al/happiness](https://nav.al/happiness).
+
 ### Take a chance
 ### Go in sprints
-### Do what scares your
+### Do what scares you
 ### Try doing the opposite and learn
 ### Lead with Empathy
 ### 30/60/90 plan
@@ -190,9 +227,41 @@ This is it, a simple system to improve odds of financial well being and secure r
 ### Frugality
 ### Bias towards action
 ### Business writing
+Great business writing is about clarity and persuasion.
+
+One of the best practical lessons on great business writing can be found on Scott Adams [blog post](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html).  He describes the main technique as keeping things simple. Simple writing is persuasive. A good argument in five sentences will sway more people than a brilliant argument in a hundred sentences. Don’t fight it.
+
+Simple means getting rid of extra words. Don’t write, “He was very happy” when you can write “He was happy.” You think the word “very” adds something. It doesn’t. Prune your sentences.
+
+Your first sentence needs to grab the reader. It makes you curious and that’s the key.
+
+Write short sentences. Avoid putting multiple thoughts in one sentence. Readers aren’t as smart as you’d think.
+
+Learn how brains organize ideas. Readers comprehend “the boy hit the ball” quicker than “the ball was hit by the boy.” Both sentences mean the same, but it’s easier to imagine the object (the boy) before the action (the hitting). All brains work that way.
+
+Keep in mind that brain is additive machine, it will naturally want to add meaning and context as it imagines what's not there. If your purpose is to persuade then less is more, the brain on the other side will imagine the rest.
+
+In the context of business emails, the above advice applies as well.  Direct messages are best, if you have a question then just ask, fewer words work best.
+
+That’s it. You just learned 80% of the rules of good writing.
 ### Value your time
+Time is a non-renewable resource you are in control of.  
+
+Think about it!
+
+You have a finite amount of time available to you, you can spend it earning money and then you spend that money to buy back time (for example you pay a kid to mow the lawn to have that hour to yourself). Time for us is finite.
+
+So the questions you should ask yourself are:
+
+- What is one hour worth to you?
+- How to calculate what your time is really worth?
+- How to get more free time?
+
+Not all uses of time are equal, and this simple truth can make a big difference in life. People who spend their time doing more profitable work make more money. People who spend their time investing in others build better relationships. People who spend their time creating a flexible career enjoy more freedom. People who spend their time working on high-impact projects contribute more to society. Whether you want more wealth, more friendship, more freedom, or more impact, it all comes down to how you spend and value your time.
+
+James Clear has written an [excellent article](https://jamesclear.com/value-of-time) to explain how to figure out what your time is worth and use that information to spend your time more effectively.
 ### Think long term
-### Multiple incomes
+### Develop multiple incomes
 ### Conscious actions (physical, emotional, energy, mental)
   [https://goop.com/wellness/spirituality/the-four-bodies/](https://goop.com/wellness/spirituality/the-four-bodies/)
 
