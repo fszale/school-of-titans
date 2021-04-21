@@ -125,12 +125,14 @@ No matter your goals, a book ["Atomic Habits"](https://www.amazon.com/Atomic-Hab
 
 If you're having trouble changing your habits, the problem isn't you. The problem is your system. Remember, systems over goals always win. Bad habits repeat themselves because you have the wrong system for change.
 
-The Book in Three Sentences
+The Book in Three Sentences:
+
 - An atomic habit is a regular practice or routine that is not only small and easy to do but is also the source of incredible power; a component of the system of compound growth.
 - Bad habits repeat themselves again and again not because you don’t want to change, but because you have the wrong system for change.
 - Changes that seem small and unimportant at first will compound into remarkable results if you’re willing to stick with them for years.
 
-The Five Big Ideas
+The Five Big Ideas:
+
 - Habits are the compound interest of self-improvement.
 - If you want better results, then forget about setting goals. Focus on your system instead.
 - The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become.
