@@ -155,7 +155,7 @@ Some of the signs commonly associated with an OCD are:
 
 Think about all these symptoms, most of them seem as a requirement to become a high achiever. Consider then developing a mild case of an "OCD" focused on implementing systems over goals in every aspect of your life.  Heighten creativity, detail oriented and driven personality is often associated with the successful people, therefore, it makes sense for you to adopt some of these behaviors.
 
-For additional medical information about OCD please refer to this [article](https://ufhealth.org/obsessive-compulsive-personality-disorder).
+For additional information about OCD please refer to this [article](https://ufhealth.org/obsessive-compulsive-personality-disorder).
 ### Crazy ideas are good
 - How can you tell if your crazy idea wouldn't work?
 - Why is it that others are quick to judge and dismiss your idea?
@@ -181,13 +181,8 @@ People have trouble saying no for numerous reasons:
 
 - To “avoid offending people”: Often people give in to avoid upsetting someone. Don’t fear to say no, but always say it with respect toward the other person. When you treat a person who is asking you for favor with respect, you’ve done everything you can or should do. This knowledge can liberate you from feeling guilty.
 - To “avoid disappointing people”: When you feel you’ve let someone down by saying no, remorse can soon follow. Remember that feeling remorseful for standing up for yourself isn’t appropriate. It’s not your job to protect others from disappointment when you decline their requests.
-- To “avoid seeming selfish”: Often, people adopt a constant yes attitude because they don’t want others to think of them as selfish. If you consistently place the needs of others ahead of your own, your life will suffer.
-- To “help others”: People like to feel good about themselves. One of the best ways is to assist others, but that’s short-sighted. Your time, money and attention are limited. Be selective in how you give away your assets.
-- To build up “low self-esteem”: People who lack self-esteem often mistakenly believe their time has less value than that of other people. When you say no, your self-esteem can actually increase.
 - To get “others to like us”: You think that when you say no to others, they’ll like you less. In fact, they’ll like you more and will respect you more, too.
-- To “appear valuable”: Everyone wants to feel appreciated. But don’t succumb to the rush of helping others to the point that you undermine your own needs. You are valuable to others when you help them, but don’t put your life on hold to assist others.
 - To avoid “missing out on opportunities”: Do you fear saying no to important people, like your boss? Do you worry that if you don’t do what the boss wants, he or she won’t think of you when other opportunities appear? Are you in danger of wasting your time doing something inconsequential for your manager to get a future chance to do something consequential for yourself? Instead, do consequential things to get on the path to being offered even more consequential things.
-- To avoid “emotional bullying”: Bullies won’t let up until you agree to do what they want. Their heavy-handed tactics – yelling, threatening, swearing – are all forms of manipulation. See them for what they are and say no firmly and clearly to short-circuit a bully’s power.
 - To prevent “conflict”: Sometimes conflict is impossible to avoid and harmony seems impossible to achieve. Be brave enough to embrace conflict to protect yourself. When you say yes to duck a confrontation, you only confirm the notion that your feelings matter least.
 
 When you always consent to put others’ needs ahead of your own -- you throw away your most valued non renewable resource -- your precious time.
@@ -196,8 +191,27 @@ Once you give away your time, you’ll never get it back.
 
 You must learn to say No.
 
-To learn how to say no I recommend that you read ["The Art Of Saying NO: How To Stand Your Ground, Reclaim Your Time And Energy, And Refuse To Be Taken For Granted"](https://www.amazon.com/Art-Saying-NO-Reclaim-Granted-ebook/dp/B074LZG7KS), you can also find an excellent summary of this book [here](https://paminy.com/summary-of-summary-of-the-art-of-saying-no-by-damon-zahariades).
+To learn how to say no I recommend that you read ["The Art Of Saying NO: How To Stand Your Ground, Reclaim Your Time And Energy, And Refuse To Be Taken For Granted"](https://www.amazon.com/Art-Saying-NO-Reclaim-Granted-ebook/dp/B074LZG7KS), you can also find an excellent summary of this book [here](https://paminy.com/summary-of-summary-of-the-art-of-saying-no-by-damon-zahariades).  Naval Ravikant calls his ability to say "No" without feeling bad a mediocre superpower, enjoy the [video clip](https://www.youtube.com/watch?v=1WKlWMUaUxY).
 ### Take the time to think
+Real knowledge is intrinsic, and it’s built from the ground up.
+
+Consider first-principles reasoning approach to break down a complex problem to the most simple elements to gain base line understanding of what components are involved [click here to read more](https://fs.blog/2018/04/first-principles/).
+
+This is a system to acquire knowledge.  It requires time.
+
+Basically, if someone is using a lot of fancy words and a lot of big concepts, they probably don’t know what they’re talking about. The smartest people can explain things to a child. If you can’t explain it to a child, then you don’t know it.
+
+Naval Ravikant has a few thoughts on clear thinking:
+
+> Very smart people tend to be weird since they insist on thinking everything through for themselves.
+>
+> A contrarian isn’t one who always objects—that’s a conformist of a different sort. A contrarian reasons independently from the ground up and resists pressure to conform.
+>
+> Cynicism is easy. Mimicry is easy. Optimistic contrarians are the rarest breed.
+
+Become an optimistic contrarian.
+
+To learn more about Naval's thinking perspectives please read ["How to think clearly"](https://www.navalmanack.com/almanack-of-naval-ravikant/how-to-think-clearly).
 ### Define your own happiness
 Its entirely possible to achieve happiness without financial wealth. I think that most of us are aware that there is no way to buy happiness. However, as Naval Ravikant puts it, in modern times you can buy your way out of common causes of unhappiness.
 
@@ -316,6 +330,7 @@ Not all uses of time are equal, and this simple truth can make a big difference 
 
 James Clear has written an [excellent article](https://jamesclear.com/value-of-time) to explain how to figure out what your time is worth and use that information to spend your time more effectively.
 ### Think long term
+### Become a perpetual optimist
 ### Develop multiple incomes
 ### Conscious actions (physical, emotional, energy, mental)
   [https://goop.com/wellness/spirituality/the-four-bodies/](https://goop.com/wellness/spirituality/the-four-bodies/)
