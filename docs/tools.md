@@ -139,11 +139,64 @@ The Five Big Ideas:
 - The Four Laws of Behavior Change are a simple set of rules we can use to build better habits. They are (1) make it obvious, (2) make it attractive, (3) make it easy, and (4) make it satisfying.
 - Environment is the invisible hand that shapes human behavior.    
 
-For a more detailed summary please visit this [blog post](https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/) and for the "real thing" by James Clear click ["Atomic Habits"](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299).
+For a more detailed book summary please visit this [blog post](https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/).
+### Develop a mild case of "OCD"
+People with either OCPD or OCD are high achievers and feel a sense of urgency about their actions. They may become very upset if other people interfere with their rigid routines.  
 
-### Develop an OCD
+Some of the signs commonly associated with an OCD are:
+
+- Over-devotion to work
+- Not being able to throw things away, even when the objects have no value
+- Lack of flexibility
+- Lack of generosity
+- Not wanting to allow other people to do things
+- Not willing to show affection
+- Preoccupation with details, rules, and lists
+
+Think about all these symptoms, most of them seem as a requirement to become a high achiever. Consider then developing a mild case of an "OCD" focused on implementing systems over goals in every aspect of your life.  Heighten creativity, detail oriented and driven personality is often associated with the successful people, therefore, it makes sense for you to adopt some of these behaviors.
+
+For additional medical information about OCD please refer to this [article](https://ufhealth.org/obsessive-compulsive-personality-disorder).
 ### Crazy ideas are good
+- How can you tell if your crazy idea wouldn't work?
+- Why is it that others are quick to judge and dismiss your idea?
+- Wasn't everyone successful seen as crazy at some point in their life?
+
+Many bad ideas nurtured by a relentless entrepreneur can be made to work at a smaller scale. Then, adjacent to those bad ideas, there may be some very powerful ideas that will grow with no bounds. If you really care about it, there’s a decent chance that other people care about it too and it can be developed to reach critical mass.
+
+Once again, implement a system over goals to optimize for success.
+
+- Listen, and keep listening.  New venture creation is about designing new solutions to problems, and all good solution design begins with listening.  But that listening shouldn’t stop once you’ve decided on a course of action.  Continue listening, and listen to all stakeholders regularly.  Pay special attention to new information and edge cases as you go —  they often hold the clues to move you forward toward better versions of your idea.
+- Work in “hunch mode.”  Think of strategies and initiatives not as fixed, final theses but as current best guesses.  Recognize that you will likely need to update your hunch regularly, and sometimes radically, to eventually find your way to success.
+- Build to learn.  Strategies and ideas are ultimately abstractions, and as such are inherently limited for understanding what’s good and what’s bad.  Real, built things on the other hand have a way of revealing the truth about these things quickly. Get past abstract discussion to the building phase – even if you’re only building non-functional prototypes – to better evaluate an idea.
+- Resist instincts to kill.  Instead of killing ideas and initiatives outright when they seem problematic, challenge yourself or your team to push further, reframe the problem and solution, or explore adjacencies.  It is these very challenges to seemingly bad ideas that can end up leading to breakthroughs.
+- Be impatient.
+
+For more of this great advice please read a Harvard Business Review publication on entrepreneurship ["Embracing Bad Ideas To Get To Good Ideas"](https://hbr.org/2016/12/embracing-bad-ideas-to-get-to-good-ideas).  From a historical perspective, consider reading ["1001 Inventions That Changed the World by Jack Challoner"](https://www.amazon.com/1001-Inventions-That-Changed-World/dp/0764161369), every idea mentioned was seen as crazy at one point.
 ### Its ok to say "NO"
+- Are you a “Go-To Person”?
+- Do you know how to protect your time?
+- Do you know how to say NO (without being a jerk)?
+
+People have trouble saying no for numerous reasons:
+
+- To “avoid offending people”: Often people give in to avoid upsetting someone. Don’t fear to say no, but always say it with respect toward the other person. When you treat a person who is asking you for favor with respect, you’ve done everything you can or should do. This knowledge can liberate you from feeling guilty.
+- To “avoid disappointing people”: When you feel you’ve let someone down by saying no, remorse can soon follow. Remember that feeling remorseful for standing up for yourself isn’t appropriate. It’s not your job to protect others from disappointment when you decline their requests.
+- To “avoid seeming selfish”: Often, people adopt a constant yes attitude because they don’t want others to think of them as selfish. If you consistently place the needs of others ahead of your own, your life will suffer.
+- To “help others”: People like to feel good about themselves. One of the best ways is to assist others, but that’s short-sighted. Your time, money and attention are limited. Be selective in how you give away your assets.
+- To build up “low self-esteem”: People who lack self-esteem often mistakenly believe their time has less value than that of other people. When you say no, your self-esteem can actually increase.
+- To get “others to like us”: You think that when you say no to others, they’ll like you less. In fact, they’ll like you more and will respect you more, too.
+- To “appear valuable”: Everyone wants to feel appreciated. But don’t succumb to the rush of helping others to the point that you undermine your own needs. You are valuable to others when you help them, but don’t put your life on hold to assist others.
+- To avoid “missing out on opportunities”: Do you fear saying no to important people, like your boss? Do you worry that if you don’t do what the boss wants, he or she won’t think of you when other opportunities appear? Are you in danger of wasting your time doing something inconsequential for your manager to get a future chance to do something consequential for yourself? Instead, do consequential things to get on the path to being offered even more consequential things.
+- To avoid “emotional bullying”: Bullies won’t let up until you agree to do what they want. Their heavy-handed tactics – yelling, threatening, swearing – are all forms of manipulation. See them for what they are and say no firmly and clearly to short-circuit a bully’s power.
+- To prevent “conflict”: Sometimes conflict is impossible to avoid and harmony seems impossible to achieve. Be brave enough to embrace conflict to protect yourself. When you say yes to duck a confrontation, you only confirm the notion that your feelings matter least.
+
+When you always consent to put others’ needs ahead of your own -- you throw away your most valued non renewable resource -- your precious time.
+
+Once you give away your time, you’ll never get it back.
+
+You must learn to say No.
+
+To learn how to say no I recommend that you read ["The Art Of Saying NO: How To Stand Your Ground, Reclaim Your Time And Energy, And Refuse To Be Taken For Granted"](https://www.amazon.com/Art-Saying-NO-Reclaim-Granted-ebook/dp/B074LZG7KS), you can also find an excellent summary of this book [here](https://paminy.com/summary-of-summary-of-the-art-of-saying-no-by-damon-zahariades).
 ### Take the time to think
 ### Define your own happiness
 Its entirely possible to achieve happiness without financial wealth. I think that most of us are aware that there is no way to buy happiness. However, as Naval Ravikant puts it, in modern times you can buy your way out of common causes of unhappiness.
@@ -200,7 +253,7 @@ To see a practical example of a 30/60/90 plan focused on what to do in a new job
 Another effective system to decide priority of execution is known as the ["Pareto Principle"](https://en.wikipedia.org/wiki/Pareto_principle), often referred to as the 80/20 rule.  The basic premise is that 20% of the identified work is responsible for the 80% of the outcome value. This approach can be combined with another system, for example the 30/60/90 plan.  In such a scenario, the work activity identified in each of the "time" buckets would be prioritized as to first begin the work on a small subset of the activities (the 20%) that delivers 80% of the results.
 
 ### Financial literacy
-Many Americans have little understanding of finances, responsible credit usage, and the long term impact of poor financial decisions. In fact, a lack of financial understanding has been signaled as one of the main reasons many Americans struggle with saving and investing. For additional details about financial literacy read the following [article](https://www.investopedia.com/articles/investing/100615/why-financial-literacy-and-education-so-important.asp), and learn about how inadequate are median retirement savings [here](https://www.synchronybank.com/blog/median-retirement-savings-by-age), note not to use average savings since those numbers include the billionaires and skew the numbers tremendously.
+Many Americans have little understanding of finances, responsible credit usage, and the long term impact of poor financial decisions. In fact, a lack of financial understanding has been signaled as one of the main reasons many Americans struggle with saving and investing. For additional details about financial literacy read the following [article](https://www.investopedia.com/articles/investing/100615/why-financial-literacy-and-education-so-important.asp), and learn about how inadequate are median retirement savings [here](https://www.synchronybank.com/blog/median-retirement-savings-by-age), note not to use average savings since those numbers include the billionaires that skew the numbers tremendously.
 
 One of the best sources of basic financial information is provided by Fidelity on their website, [click here](https://www.fidelity.com/financial-basics/overview) for an excellent primer on financials basics.
 
