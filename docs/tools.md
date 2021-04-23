@@ -249,8 +249,6 @@ What if you had a better system for work?
 First consider a daily sprint based approach, a series of mini-sprints where each one is a period of concentration for 60-90 minutes followed by a rest period.  The same approach can be scaled to days, where a single day is fully dedicated to meetings and nothing else.  The next day could be all about coding, followed by a rest day spent reading, browsing, learning.  This approach continues to scale, you are probably already familiar with the agile project sprints (typically a two week time period).
 
 Here are some great articles and studies about this subject, ["The Modern Knowledge Worker is a Sprinter"](https://medium.com/@rdesai01/the-modern-knowledge-worker-is-a-sprinter-5925b5400f60), ["Sprints Are the Secret to Getting More Done"](https://hbr.org/2016/03/sprints-are-the-secret-to-getting-more-done) and ["Working in sprints with regular breaks will totally transform your productivity"](https://www.cnbc.com/2017/08/16/working-in-sprints-with-regular-breaks-will-totally-transform-your-productivity-.html).
-
-### Lead with Empathy
 ### 30/60/90 plan
 - Are you about to start a new project and don't know how?
 - How do you define and prioritize the work?
@@ -306,11 +304,6 @@ I would also add the following to this plan:
 - Get a universal insurance policy with a cash savings guaranteed rate but only if you are in your early 20s (insurance costs less when you are young)
 
 This is it, a simple system to improve odds of financial well being and secure retirement.
-### Frugality
-### Public speaking
-### Radical candor
-### Tracking metrics
-### Bias towards action
 ### Business writing
 Great business writing is about clarity and persuasion.
 
@@ -345,12 +338,6 @@ So the questions you should ask yourself are:
 Not all uses of time are equal, and this simple truth can make a big difference in life. People who spend their time doing more profitable work make more money. People who spend their time investing in others build better relationships. People who spend their time creating a flexible career enjoy more freedom. People who spend their time working on high-impact projects contribute more to society. Whether you want more wealth, more friendship, more freedom, or more impact, it all comes down to how you spend and value your time.
 
 James Clear has written an [excellent article](https://jamesclear.com/value-of-time) to explain how to figure out what your time is worth and use that information to spend your time more effectively.
-### Think long term
-### Become a perpetual optimist
-### Develop multiple incomes
-### Conscious actions (physical, emotional, energy, mental)
-  [https://goop.com/wellness/spirituality/the-four-bodies/](https://goop.com/wellness/spirituality/the-four-bodies/)
-
 ### Career Progression
 - Do you wonder what's next?  
 - How can you judge the next opportunity?
@@ -367,3 +354,17 @@ This is a system based approach to apply judgement to the decision making proces
 The order of the above four items indicates how you should evaluate the opportunity you are considering.  Write down your understanding of the situation in the context of the topic (Money, Power, Experience, Creation).  Simplify your writing, remove unnecessary adjectives and review.  Your writing should be simple, crisp, keep sentences less than 13 words long.  
 
 Now imagine placing these topics on a balance scale, your first topic should feel as if its 80% of the total weight.  If it does, then this is what is truly important to you and should be used to decide your next move.
+### Frugality
+["Where Are You Still Using Single-Ply?"](https://tim.blog/2019/12/30/where-are-you-still-using-single-ply/)
+### Public speaking
+### Radical candor
+### Tracking metrics
+### Bias towards action
+Dip your toe in the water
+### Lead with Empathy
+Just care.
+### Think long term
+### Become a perpetual optimist
+### Develop multiple incomes
+### Conscious actions (physical, emotional, energy, mental)
+  [https://goop.com/wellness/spirituality/the-four-bodies/](https://goop.com/wellness/spirituality/the-four-bodies/)
