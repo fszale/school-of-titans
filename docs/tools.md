@@ -229,11 +229,27 @@ Think about a system that will repeatedly move you forward towards your unique d
 - You can't outsource your happiness to others
 
 One of the best sources of thoughts on happiness I have found so far comes from Naval Ravikant and can be found at [https://nav.al/happiness](https://nav.al/happiness).
-
-### Take a chance
-### Go in sprints
 ### Do what scares you
-### Try doing the opposite and learn
+Certainly, some fear is necessary as it is a natural reaction to protect us from harm. However, in professional settings fear often makes us do the opposite of what’s best for us.  
+
+Think about it!
+
+How often have you wanted to ask for a promotion and the fear stopped you? How about when you had ask for a pay rise, a job, speak in public or ask someone out?  There are countless examples of everyday situations where the fear gets the better of us.  The key is to realize that the worst that can happen is typically insignificant. So what that someone will say no? People will forget what you said soon after the event, you can find another job, meet new people.
+
+Are you thinking -- easy to say?
+
+I have a solution, consider a system based approach to effectively build up immunity to fear. You have to systematically expose yourself to the thing that scares you, starting small and building tolerance as you progress (see Atomic Habits).  Another approach, albeit a lot more drastic and instantly effective, is to identify the one thing that scares you the most. For example jumping out of an airplane, what happens if you simply go ahead and do just that? Take your worst fear and eradicate it instantly. The effect is surprising, all other fears quickly become irrelevant as you have managed to overcome your #1 on the list.
+
+There is an excellent article titled "The Value of Doing Things That Scare You", available at this [blog post](https://www.helpscout.com/blog/do-things-that-scare-you/).  Tim Ferriss has an great Ted talk ["Smash fear, learn anything"](https://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything?language=en) on this subject as well.
+### Go in sprints
+Naval Ravikant had an interesting tweet, "Forty hour workweeks are a relic of the Industrial Age. Knowledge workers function like athletes — train and sprint, then rest and reassess." If you are part of the knowledge based economy, consider how you work.  When was the last time you worked just 40 real and productive hours? How many hours are spent browsing, reading, talking to people to get context, searching for answers, being interrupted with context switching being one of the worst offenders.
+
+What if you had a better system for work?
+
+First consider a daily sprint based approach, a series of mini-sprints where each one is a period of concentration for 60-90 minutes followed by a rest period.  The same approach can be scaled to days, where a single day is fully dedicated to meetings and nothing else.  The next day could be all about coding, followed by a rest day spent reading, browsing, learning.  This approach continues to scale, you are probably already familiar with the agile project sprints (typically a two week time period).
+
+Here are some great articles and studies about this subject, ["The Modern Knowledge Worker is a Sprinter"](https://medium.com/@rdesai01/the-modern-knowledge-worker-is-a-sprinter-5925b5400f60), ["Sprints Are the Secret to Getting More Done"](https://hbr.org/2016/03/sprints-are-the-secret-to-getting-more-done) and ["Working in sprints with regular breaks will totally transform your productivity"](https://www.cnbc.com/2017/08/16/working-in-sprints-with-regular-breaks-will-totally-transform-your-productivity-.html).
+
 ### Lead with Empathy
 ### 30/60/90 plan
 - Are you about to start a new project and don't know how?
@@ -290,10 +306,10 @@ I would also add the following to this plan:
 - Get a universal insurance policy with a cash savings guaranteed rate but only if you are in your early 20s (insurance costs less when you are young)
 
 This is it, a simple system to improve odds of financial well being and secure retirement.
+### Frugality
 ### Public speaking
 ### Radical candor
 ### Tracking metrics
-### Frugality
 ### Bias towards action
 ### Business writing
 Great business writing is about clarity and persuasion.
