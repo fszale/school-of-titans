@@ -304,6 +304,8 @@ I would also add the following to this plan:
 - Get a universal insurance policy with a cash savings guaranteed rate but only if you are in your early 20s (insurance costs less when you are young)
 
 This is it, a simple system to improve odds of financial well being and secure retirement.
+
+If you want to build wealth, I recommend you read Naval Ravikant's twitter thread titled ["How to Get Rich (without getting lucky)"](https://twitter.com/naval/status/1002103360646823936).
 ### Business writing
 Great business writing is about clarity and persuasion.
 
@@ -349,13 +351,35 @@ This is a system based approach to apply judgement to the decision making proces
 - Money
 - Power
 - Experience
-- Creation
+- Idea
 
-The order of the above four items indicates how you should evaluate the opportunity you are considering.  Write down your understanding of the situation in the context of the topic (Money, Power, Experience, Creation).  Simplify your writing, remove unnecessary adjectives and review.  Your writing should be simple, crisp, keep sentences less than 13 words long.  
+The order of the above four items indicates how you should evaluate the opportunity you are considering.  Write down your understanding of the situation in the context of the topic (Money, Power, Experience, Idea).  Simplify your writing, remove unnecessary adjectives and review.  Your writing should be simple, crisp, keep sentences less than 13 words long.  
 
 Now imagine placing these topics on a balance scale, your first topic should feel as if its 80% of the total weight.  If it does, then this is what is truly important to you and should be used to decide your next move.
+### Work on what matters
+- When you run out of things that are both high-impact and easy go for hard and high-impact, avoid easy.
+- Maintain a hold on your ego to avoid investing into meaningless work at a grand scale.
+- Take the time to understand the status quo before shifting it.
+- If something dire is happening at your company, then that’s the place to be engaged.
+- The most effective places to work are those that matter to your company but still have enough room to actually do work.
+- Take the time to develop the team around you, it’s quite likely that will become your legacy long after you are gone.
+- A surprising number of projects are one small change away from succeeding.
+- Time spent getting work finished is always time well spent.
+- Things that simply won’t happen if you don’t do them are your biggest opportunity to work on something that matter.
+
+You can learn all about working on what matters and how to make betters decisions in this [blog post](https://staffeng.com/guides/work-on-what-matters), certainly one of the best things I have read in 2020.
 ### Frugality
-["Where Are You Still Using Single-Ply?"](https://tim.blog/2019/12/30/where-are-you-still-using-single-ply/)
+There is a hidden secret in the ability to remain frugal in the face of constant barrage of consumption promotion. This is about being savvy with the resources provided. Frugality, in a way, is the ultimate test of one's abilities to execute. Given a finite set of resources (for example money, time, people and materials) the ultimate measure of one's ability to create something out of nothing lies on the other side of the accomplishment.
+
+Jeff Bezos said he believes frugality is a positive thing because it drives innovation. He clarified: "I think frugality drives innovation, just like other constraints do. One of the only ways to get out of a tight box is to invent your way out."
+
+A system based approach can be equally effective for personal as well as professional environments.  Apply the 80/20 rule to focus your frugality effort on the 20% of what matters to deliver 80% of the results.
+
+Let's begin with your personal frugality, make peace with buying used depreciating assets (i.e. used car, used books on amazon, used bicycle) to limit the expense, use the saved monies to invest in index mutual funds instead.  For example, buy a used car instead of new, you will save on insurance and the overall cost of the vehicle which depreciates rapidly when brand new. You can still enjoy fine dining, nice clothes, a vacation as those are expenses that have smaller financial impact.  
+
+The same frugality based approach applies in a professional setting. Instead of developing a new software product from scratch, consider leveraging an open source project that delivers just enough functionality to test the idea with.  Given a need to hire another person full time, consider a combination of a part time consultant and SaaS software instead.
+
+Tim Ferriss has an interesting article about this very subject titled ["Where Are You Still Using Single-Ply?"](https://tim.blog/2019/12/30/where-are-you-still-using-single-ply/), another simple system based approach is outlined in the following [article](https://www.discover.com/online-banking/banking-topics/how-to-be-frugal/).
 ### Public speaking
 ### Radical candor
 ### Tracking metrics
@@ -364,6 +388,9 @@ Dip your toe in the water
 ### Lead with Empathy
 Just care.
 ### Think long term
+Compound interest
+Naval Ravikant twitter quote "Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest."
+
 ### Become a perpetual optimist
 ### Develop multiple incomes
 ### Conscious actions (physical, emotional, energy, mental)
