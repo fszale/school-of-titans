@@ -383,14 +383,19 @@ Tim Ferriss has an interesting article about this very subject titled ["Where Ar
 ### Public speaking
 ### Radical candor
 ### Tracking metrics
+### Customer obsessed
 ### Bias towards action
 Dip your toe in the water
 ### Lead with Empathy
 Just care.
 ### Think long term
-Compound interest
-Naval Ravikant twitter quote "Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest."
+Thinking long term is the typically the domain of the CEOs and strategic thinkers. These visionaries think decades into the future and they often make bold long term bets that shape our future. ‘It’s all about the long term.’ That was the title of Amazon CEO Jeff Bezos’ first letter to shareholders in 1997. In another quote Jeff Bezos said “We can’t realize our potential as people or companies, unless we plan for the long term.”  Warren Buffet, Elon Musk, Naval Ravikant and many others also share in this belief.
 
+So how can you benefit from such foresight?
+
+Naval Ravikant has a great quote on twitter, "Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest." This is his idea of how to apply long term thinking, there is a great write up on his blog with the title ["Play Long-term Games With Long-term People"](https://nav.al/long-term).  The title says it all. Align yourself with like minded individuals to work and play with. The trust and respect developed over time allows each other to better focus on building a better vision of the mutually beneficial future.  And with every passing iteration that trust compounds.
+
+Another great article talks about how ["Bezos, Musk, & Buffett See The World Differently, Because They See Time Differently"](https://medium.com/accelerated-intelligence/these-billionaire-ceos-see-the-world-differently-because-they-see-time-differently-faa2909e8fa2), effectively outlining their 4 dimensional thinking pattern that accounts for time variable as the key to effective long term thinking.
 ### Become a rational optimist
 Naval Ravikant has made an interesting comment, "To create things, you have to be a rational optimist. Rational in the sense that you have to see the world for what it really is. And yet you have to be optimistic about your own capabilities, and your capability to get things done."
 
