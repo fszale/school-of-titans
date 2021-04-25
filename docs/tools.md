@@ -391,7 +391,14 @@ Just care.
 Compound interest
 Naval Ravikant twitter quote "Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest."
 
-### Become a perpetual optimist
+### Become a rational optimist
+Naval Ravikant has made an interesting comment, "To create things, you have to be a rational optimist. Rational in the sense that you have to see the world for what it really is. And yet you have to be optimistic about your own capabilities, and your capability to get things done."
+
+Rational optimists make asymmetric bets where the upside is unlimited, while the downside is capped. Pessimists often overanalyze the downside. They convince themselves the risk is too high on all opportunities and usually end up doing nothing. Rational optimists analyze the downside and assess whether they will avoid ruin if it fails. The downside in a first world country is relatively small. Even bankruptcy can be endured and recovered from.
+
+Smart, pessimistic people, talk themselves out of all sorts of opportunities because they fear a downside that doesn’t exist. Becoming a rational optimist solves this.
+
+You can find an excellent writeup about [Here’s Why You Should Become A Rational Optimist](https://www.wealest.com/articles/rational-optimist). A good Harvard article about your health and benefits of optimism can be found [here](https://www.health.harvard.edu/heart-health/optimism-and-your-health) and another interesting take on Scott Adam's irrational optimism in this [blog post](https://ordinary-times.com/2014/03/01/the-case-for-scott-adamss-irrational-optimism/).
 ### Develop multiple incomes
 ### Conscious actions (physical, emotional, energy, mental)
   [https://goop.com/wellness/spirituality/the-four-bodies/](https://goop.com/wellness/spirituality/the-four-bodies/)
