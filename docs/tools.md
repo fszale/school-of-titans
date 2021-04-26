@@ -406,12 +406,31 @@ For all forms of business a personal network is fundamental, this is the group o
 The next component is to look for opportunities. Look for something that is a passion of yours as that significantly increases the odds of resilience in face of adversity. Also, find something others hate doing and offer to do it for them instead. Let others outsource their problems (your opportunities) to you. You can easily register an LLC, get business insurance and work as a consultant in addition to your primary source of income.  Perhaps over time, you can apply a system to the problem, use automation and build a solution that scales in order to progress to a self sustaining business without requiring major investment of your time. To increase probability of success, apply the 80/20 rule to deliver most impact as fast as possible. Become customer obsessed, see what Jeff Bezos has to say about his customer obsession [here](https://www.salesforce.com/blog/jeff-bezos-lessons-blog/).
 
 Here is an excellent writeup on [building startups](https://www.navalmanack.com/secret-sections/building-startups) with real advice, you can also join [Angel List](https://angel.co/]) in search of others to partner up with, there are many opportunities for project based work and small engagements that generate income but do not conflict with your primary job.
-### Conscious actions (physical, emotional, energy, mental)
-  [https://goop.com/wellness/spirituality/the-four-bodies/](https://goop.com/wellness/spirituality/the-four-bodies/)
 ### Public speaking
+Much has been written and said about public speaking.  The only advice I have is practice, practice, practice and then practice some more.
+Tim Ferriss has an excellent write up about how he prepares for public speaking [here](https://tim.blog/2010/04/11/public-speaking-how-i-prepare-every-time/), its his perspective but I find it very effective.  You can see that he has developed a system for how to organize and deliver the speech, as always systems win over goals and his method works well.
+
+I would add just a few additional points to Tim's approach:
+
+- Rehearse and record yourself, pay attention to filler words, "like", "um", "you know" and your body posture, this can be an ultimate miracle cure as people often are unaware or simply forget to pay attention
+- Must have clarity of message, repeat the key message multiple times during the speech
+- Make the audience do something, ask a question so that they raise a hand or have them stand up as you ask questions
+- During Q/A Repeat the question to buy time for yourself to think
+- Make a clear point and illustrate with an example
+- Utilize intentional pause, slow down, take a sip of water, regroup in your mind
+- Don't worry about it, 5 minutes after the event/call ends nobody remembers anything except for maybe the last thing you said
+- Make sure the last thing you say is sticky, the persuasive take away
 ### Radical candor
 ### Tracking metrics
 ### Bias towards action
-Dip your toe in the water
+Jeff Bezos has one of the principal leadership values defined as bias for action and it reads as follows "Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking."  
+
+You can't possibly predict the future, and all of its outcomes. You can only approximate and estimate based on new input and past experience in order to calculate the risk.  The bias towards action is the catalyst needed to move you forward, with every completed task you reduce the risk as you move towards a working solution.
+
+For a more detailed definition of all of Amazon's leadership principle please read [this blog](https://louiscarter.com/amazon-leadership-principles/). Naval Ravikant says "All of the really successful people I know have a really strong action bias. They just do things.”, listen to the podcast [here](https://www.youtube.com/watch?v=Xi4z9zxnGF4), and on a funny side read about Jerry Seinfeld's bias towards action story [here](https://buffer.com/resources/stop-procrastinating-seinfeld-strategy/).
 ### Lead with Empathy
 Just care.
+
+This is a simple message, just care.  Care about your coworkers, care about their lives, care about their problems, be compassionate.  This is how you build long lasting relationships, this is how you become an empathetic and better leader.
+### Conscious actions (physical, emotional, energy, mental)
+  [https://goop.com/wellness/spirituality/the-four-bodies/](https://goop.com/wellness/spirituality/the-four-bodies/)
