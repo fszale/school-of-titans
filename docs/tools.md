@@ -380,14 +380,6 @@ Let's begin with your personal frugality, make peace with buying used depreciati
 The same frugality based approach applies in a professional setting. Instead of developing a new software product from scratch, consider leveraging an open source project that delivers just enough functionality to test the idea with.  Given a need to hire another person full time, consider a combination of a part time consultant and SaaS software instead.
 
 Tim Ferriss has an interesting article about this very subject titled ["Where Are You Still Using Single-Ply?"](https://tim.blog/2019/12/30/where-are-you-still-using-single-ply/), another simple system based approach is outlined in the following [article](https://www.discover.com/online-banking/banking-topics/how-to-be-frugal/).
-### Public speaking
-### Radical candor
-### Tracking metrics
-### Customer obsessed
-### Bias towards action
-Dip your toe in the water
-### Lead with Empathy
-Just care.
 ### Think long term
 Thinking long term is the typically the domain of the CEOs and strategic thinkers. These visionaries think decades into the future and they often make bold long term bets that shape our future. ‘It’s all about the long term.’ That was the title of Amazon CEO Jeff Bezos’ first letter to shareholders in 1997. In another quote Jeff Bezos said “We can’t realize our potential as people or companies, unless we plan for the long term.”  Warren Buffet, Elon Musk, Naval Ravikant and many others also share in this belief.
 
@@ -405,5 +397,21 @@ Smart, pessimistic people, talk themselves out of all sorts of opportunities bec
 
 You can find an excellent writeup about [Here’s Why You Should Become A Rational Optimist](https://www.wealest.com/articles/rational-optimist). A good Harvard article about your health and benefits of optimism can be found [here](https://www.health.harvard.edu/heart-health/optimism-and-your-health) and another interesting take on Scott Adam's irrational optimism in this [blog post](https://ordinary-times.com/2014/03/01/the-case-for-scott-adamss-irrational-optimism/).
 ### Develop multiple incomes
+Diversification is fundamental to long term success, therefore, your income should come from multiple sources just as you diversify your investment portfolio (stocks, mutual funds, bonds, precious metals). There are many possibilities, but all will require an investment of your time and in some cases money.  You can google for ideas [here](https://www.google.com/search?q=ideas+for+multiple+sources+of+income) but its difficult to apply such generic advice and expect tangible results.
+
+Again we reach for a system based approach, one that allows you to identify and validate the idea first.  
+
+For all forms of business a personal network is fundamental, this is the group of people you are connected to that you can provide value to. You network can and is willing to help, always ask for help and you will be surprised to find that most people are willing to help. Your network is often the first source of your clients, ideas, new connections and can also provide validation of your ideas. If you have a small network, invest in building one, always ask how you can help others, add value wherever possible.  Take the time and find ways to grow it, use LinkedIn as much as possible but also do not forget to meet and talk to people. The post Covid world has accelerated the migration towards remote work environment and made the quick online meetings easier than before, social networks such as Clubhouse also provide an easy and fun way to connect with new people.
+
+The next component is to look for opportunities. Look for something that is a passion of yours as that significantly increases the odds of resilience in face of adversity. Also, find something others hate doing and offer to do it for them instead. Let others outsource their problems (your opportunities) to you. You can easily register an LLC, get business insurance and work as a consultant in addition to your primary source of income.  Perhaps over time, you can apply a system to the problem, use automation and build a solution that scales in order to progress to a self sustaining business without requiring major investment of your time. To increase probability of success, apply the 80/20 rule to deliver most impact as fast as possible. Become customer obsessed, see what Jeff Bezos has to say about his customer obsession [here](https://www.salesforce.com/blog/jeff-bezos-lessons-blog/).
+
+Here is an excellent writeup on [building startups](https://www.navalmanack.com/secret-sections/building-startups) with real advice, you can also join [Angel List](https://angel.co/]) in search of others to partner up with, there are many opportunities for project based work and small engagements that generate income but do not conflict with your primary job.
 ### Conscious actions (physical, emotional, energy, mental)
   [https://goop.com/wellness/spirituality/the-four-bodies/](https://goop.com/wellness/spirituality/the-four-bodies/)
+### Public speaking
+### Radical candor
+### Tracking metrics
+### Bias towards action
+Dip your toe in the water
+### Lead with Empathy
+Just care.
