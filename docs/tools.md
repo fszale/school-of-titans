@@ -421,7 +421,26 @@ I would add just a few additional points to Tim's approach:
 - Don't worry about it, 5 minutes after the event/call ends nobody remembers anything except for maybe the last thing you said
 - Make sure the last thing you say is sticky, the persuasive take away
 ### Radical candor
+Radical candor is a deeply human (empathetic) way of managing the people who work for/with you and supporting them through personal and professional problems.
+
+Caring personally means caring about people on a human level, beyond their work output. This requires getting to know each team member’s motivations and ambitions, as well as learning about their “whole selves”—their lives and interests outside of work that may affect their needs at work. Showing that you personally care about people naturally builds trusting relationships. When team members feel that you have their best interests in mind, they are more likely to engage with your feedback, trust your decisions, and be honest with you—and in turn, you’ll feel that you can trust and be honest with them.
+
+Challenging directly pushes you to have tough conversations with other people, such as in giving criticism or discussing subpar performance. These important conversations give your team members the opportunity to improve, help you avoid more problems and tough conversations down the line, and contribute to trust-building—being. Pushing your team members to their full potential demonstrates that you care about them.
+
+Never forget to solicit candid feedback (its a gift), it must flow both ways, radical candor at its best.
+
+To learn more about how to apply radical candor and what not to do, read the excellent book called ["Radical Candor"](https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375) by Kim Scott. For a great book summary please visit this [blog post](https://www.shortform.com/summary/radical-candor-summary-kim-scott).
 ### Tracking metrics
+Amazon is a giant size organization, how can such a business operate in visible and transparent manner given its size and complexity?
+
+The answer is, metrics.  Amazon has a robust metrics system in which everything that matters can be tracked, measured and analyzed with insights generated and routine decisions automated.  This system empowers Bezos, executives and frontline employees to focus more on what matters and away from managing routine daily chores. Amazon is not alone, all businesses utilize metrics in some capacity.
+
+Given what metrics do for a business, should we track and measure personal metrics?
+
+If you have a Fitbit, or Apple watch then you are already familiar with collecting metrics for your own personal benefit (health tracking).  Try applying a system based approach and collect and compare metrics in the context of major aspects of you own life. Apply the 80/20 rule to focus on the things that deliver the most impact with the least amount effort.  For example, anytime you have a big purchase to make (i.e. car), begin by identifying the key metrics you are concerned with, then expand those with another set that is a lot more granular, ask others for feedback on the metrics, compare and contrast the data, and make the decision based on the metrics.  
+
+For more ideas about personal metrics please read ["Metrics that Matter"](https://sandsleadership.com/personal-performance-metrics/), Tim Ferriss also has a great article about ["Vanity Metrics vs. Actionable Metrics"](https://tim.blog/2009/05/19/vanity-metrics-vs-actionable-metrics/).
+
 ### Bias towards action
 Jeff Bezos has one of the principal leadership values defined as bias for action and it reads as follows "Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking."  
 
