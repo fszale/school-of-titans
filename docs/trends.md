@@ -7,6 +7,5 @@
 ### Intense personalization (medicine, services, marketing, all)
 ### Remixing of existing products to create new offerings
 ### Complete tracking and surveillance
-### Good questions lead to higher value
 ### Planetary society
 ### Humans converge with the machines
