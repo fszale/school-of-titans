@@ -1,5 +1,38 @@
 # Engineering
 ### Configuration Driven Design
+Configuration driven design is a metadata first software development approach.
+
+Metadata is the data used to describe properties and the arrangement of components in a given system. The metadata is best implemented using a widely accepted and human readable format such as YAML or JSON. This is an idea that has been tried and true for many years with great success across a wide variety of IT shops.
+
+Let's unpack this concept a bit.
+
+Here we have a process flow diagram with multiple boxes and connecting lines that describe a construction project.
+Each box performs some action, while each line that connects the boxes has properties that describe the interaction between the boxes themselves.
+
+These properties is what we refer to as the metadata.
+
+You can see that the process remains the same even though it is leveraged to build a brand new home, condo or renovate an existing property before handing the keys to the client. This is very similar in how we apply a configuration driven design in the systems that we build. The same process remains intact while the individual components can be easily substituted and used in multiple ways.
+
+One of the inherent pillars of the configuration driven design is that it allows us to reduce the volume of modifications to the code base. The configuration metadata is well suited to reflect continuous changes to business requirements, component parameters and sequence of execution. In addition, we can utilize non-engineering team members to perform and test configuration changes. As a result, engineers move faster as they focus on critical engineering tasks instead.
+
+Another great pillar of the configuration driven design is the simplicity of the solution.
+Team members can control entire system behavior using only the  configuration files.
+These configuration files employ a human friendly naming convention and an easy to comprehend structure.
+Simple text editing tools such as notepad or just about any other text editor can be sufficient enough to implement desired changes.
+
+Ok, so now we know what configuration driven design is all about.
+There are a few good rules to follow that will assure success and minimize implementation risks.
+- Keep it simple, begin with very small set of parameters, tasks and business rules to minimize the complexity of the configuration file itself.
+- Change the configuration only when needed, you do not need to account for all edge cases from the get go.
+- Test continuously, after every change and no mater how small it is. The key here is the frequency of testing as well as the depth of the applied test cases.
+
+Let's talk about the clear upside of this approach.
+
+The configuration driven approach is a way to gain technology independence since the process complexity, that's the task execution sequence, parameters and business rules, are externalized away from the underlying implementation.  In effect, its a bit easier to swap out individual components of the system and their underlying technology. A consistent reuse of configuration files will assist engineers to eliminate duplicated code. And when properly structured and labeled, configuration files can become code like in their effectiveness while retaining their user friendly appearance.
+
+On the downside, we should avoid implementing sophisticated business rules using configuration files. Business rules are complex in nature and tend to evolve over time, as frequency of rule changes increases so does their complexity. There are widely used  rule engines such as Drools and InRule that are a much better suited for this purpose.  Of course, what defines a complex business rule is a judgment call, therefore it deserves its own conversation.
+
+You can find the full code for this project at [https://github.com/fszale/configuration-driven-design](https://github.com/fszale/configuration-driven-design).
 
 ### Rules Engine
 The only constant is change itself.
