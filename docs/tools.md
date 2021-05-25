@@ -451,5 +451,15 @@ For a more detailed definition of all of Amazon's leadership principle please re
 Just care.
 
 This is a simple message, just care.  Care about your coworkers, care about their lives, care about their problems, be compassionate.  This is how you build long lasting relationships, this is how you become an empathetic and better leader.
+
 ### Conscious actions (physical, emotional, energy, mental)
   [https://goop.com/wellness/spirituality/the-four-bodies/](https://goop.com/wellness/spirituality/the-four-bodies/)
+
+### Grooming & Fashion
+
+https://www.stitchfix.com/
+https://40overfashion.com/
+
+### Fitness
+
+https://www.planetfitness.com/
